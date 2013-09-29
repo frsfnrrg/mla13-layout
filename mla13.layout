@@ -12,7 +12,7 @@ TocDepth                2
 DefaultStyle            Standard
 
 ClassOptions
-        FontSize 12
+        Other "12pt"
 End
 
 # This is just to show how to declare the default font.
