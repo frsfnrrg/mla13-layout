@@ -125,8 +125,8 @@ Style FirstName
         LatexName             firstname
         LabelSep              xxx
         ParSkip               0.4
-        TopSep                1.3
-        BottomSep             0.7
+        TopSep                0.4
+        BottomSep             0.1
         ParSep                0.7
         Align                 Center
         LabelType             No_Label
@@ -143,7 +143,7 @@ Style LastName
         LatexName             lastname
         LabelSep              xxx
         ParSkip               0.4
-        TopSep                1.3
+        TopSep                0.1
         BottomSep             0.7
         ParSep                0.7
         Align                 Center
@@ -162,8 +162,8 @@ Style Date
         LatexName             date
         LabelSep              xxx
         ParSkip               0.4
-        TopSep                0.9
-        BottomSep             0.5
+        TopSep                0.3
+        BottomSep             0.7
         ParSep                1
         Align                 Center
         LabelType             No_Label
@@ -180,8 +180,8 @@ Style Professor
         LatexName             professor
         LabelSep              xxx
         ParSkip               0.4
-        TopSep                0.7
-        BottomSep             0.4
+        TopSep                0.3
+        BottomSep             0.7
         ParSep                0.4
         Align                 Center
         LabelType             No_Label
@@ -199,8 +199,8 @@ Style Class
         LatexName             class
         LabelSep              xxx
         ParSkip               0.4
-        TopSep                0.7
-        BottomSep             0.4
+        TopSep                0.3
+        BottomSep             0.7
         ParSep                0.4
         Align                 Center
         LabelType             No_Label
